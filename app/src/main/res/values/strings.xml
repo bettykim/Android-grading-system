@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">group project</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="welcome">Welcome</string>
+    <string name="assignments">tAssignments</string>
+    <string name="grades">tGrades</string>
+</resources>
